@@ -9,6 +9,6 @@ I handle the website (in-progress), the Google Workspace environment, and all th
 
 The website i'm currently working on is proyectoanda.org
 
-I'm currently learning Java in school, although I'm already familiar with Web-based languages like HTML and CSS. I'm also beginning to learn about the various JavaScript frameworks like Node.js and React.js
+I'm currently learning Java in school, although I'm already familiar with Web-based languages like HTML and CSS. I'm also beginning to learn about JavaScript
 
 You can reach me at oscarach30@gmail.com
