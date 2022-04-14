@@ -1,6 +1,6 @@
 Hello, I'm Oscar Chavez
 
-I'm currently studying Computer Science at Southwestern College. I'm looking to transfer to a 4-year university this coming fall or next Spring.
+I'm currently studying Computer Science.
 
 I have experience with Google Workspace administration, Hostinger Cloud Services, and WordPress.
 
